@@ -1,0 +1,10 @@
+is_global = true
+build_property.TargetFramework = net5.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.PublishSingleFile = 
+build_property.IncludeAllContentForSelfExtract = 
+build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
+build_property.RootNamespace = StudentsApi
+build_property.ProjectDir = C:\Users\bartk\OneDrive\Semestr 8\Technologie dla aplikacji klasy enterprise\Laboratorium\TAKE-lab\lab11 & lab12 - Angular + .NET Core Web API\StudentsApi\
